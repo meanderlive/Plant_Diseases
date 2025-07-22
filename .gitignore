@@ -3,6 +3,8 @@ __pycache__/
 *.hdf5
 plant_diseases/db.sqlite3
 .idea/
+tf1env/
+
 =======
 # Logs
 logs
@@ -144,3 +146,4 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 >>>>>>> b993afec3f27c2fe2194643c3c148a6171778ee3
+tf1env/
