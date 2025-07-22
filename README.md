@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deep Learning Based Plant Diseases Recognition
   This django based web application uses a trained convolutional neural network to identify the disease present on a plant leaf. It consists of 38 classes of 
   different healthy and diseased plant leaves. The 38 classes are:
